@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-# I'm Mona Haffar mojarrad
+# my name is Mona Haffar mojarrad
 
 <!--
 **monahmd/monahmd** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
